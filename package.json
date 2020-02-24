@@ -1,8 +1,8 @@
 {
-  "name": "dev.to",
+  "name": "dev.to-posts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR-USERNAME/YOUR-REPO.git"
+    "url": "https://github.com/jonesrussell/dev.to-posts.git"
   },
   "scripts": {
     "prettier": "prettier",
