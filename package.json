@@ -4,6 +4,11 @@
     "type": "git",
     "url": "https://github.com/jonesrussell/dev.to-posts.git"
   },
+  "license" :
+  {
+    "type": "cc-by-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
   "scripts": {
     "prettier": "prettier",
     "embedme": "embedme blog-posts/**/*.md",
