@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 245325,
+    "relativePathToArticle": "./blog-posts/whalebrew/whalebrew.md"
+  },
+  {
+    "id": 245324,
+    "relativePathToArticle": "./blog-posts/docker-for-legacy-drupal-development/docker-for-legacy-drupal-development.md"
+  },
+  {
+    "id": 245323,
+    "relativePathToArticle": "./blog-posts/scaffold-and-deploy-a-jekyll-github-pages-blog-in-5-minutes/scaffold-and-deploy-a-jekyll-github-pages-blog-in-5-minutes.md"
+  },
+  {
+    "id": 241571,
+    "relativePathToArticle": "./blog-posts/install-composer-in-custom-docker-image/install-composer-in-custom-docker-image.md"
+  },
+  {
+    "id": 93051,
+    "relativePathToArticle": "./blog-posts/install-and-configure-mariadb/install-and-configure-mariadb.md"
+  },
+]
